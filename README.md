@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next.js, Express.js,**
 
-- 👨‍💻 All of my projects are available at [https://sks-portfolio.netlify.app/about](https://sks-portfolio.netlify.app/about)
+- 👨‍💻 All of my Practiced projects are available at [https://sks-portfolio.netlify.app/about](https://sks-portfolio.netlify.app/about)
 
 - 💬 Ask me about **React, Javascript, Bootstrap.**
 
